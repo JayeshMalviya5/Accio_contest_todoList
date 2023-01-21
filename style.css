@@ -63,6 +63,7 @@ button{
     border-radius: 5px;
     color: white;
     background-color: black;
+    margin-bottom: 5px;
 }
 
 .completed .info{
